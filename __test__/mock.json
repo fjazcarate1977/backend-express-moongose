@@ -1,0 +1,15 @@
+{
+  "daily": {
+    "temperature": 36.7,
+    "mucusType": "menstruation",
+    "mucusAspect": "P",
+    "sensation": "H",
+    "cervix": "Normal",
+    "comments": "Test Jest Cupcake ipsum dolor. Sit amet sweet roll chocolate bar muffin gummies."
+  },
+  "user": {
+    "name": "Mr. Pazos II",
+    "email": "pazos@forever.com",
+    "password": "r5ggdg@c!$%S"
+  }
+}
