@@ -46,5 +46,5 @@ In this case, I'm using Supestest Library:
 - api => GET, get all dailies.
 - api/{daliy ID} => GET, get daily by ID
 - api/{daily ID} => PUT, replace daily by ID
-- api/{daili Id} => DELETE, delte daily by ID
+- api/{daili Id} => DELETE, delete daily by ID
 
