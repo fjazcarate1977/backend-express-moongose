@@ -25,6 +25,7 @@ All the features was added to App from the scratch:
 - TypeScript
 - Express
 - JWT
+- Jest
 - Supertest
 - MongoDB => nor provided, needs to be added externally 
 - Moongose
@@ -33,7 +34,7 @@ All the features was added to App from the scratch:
 
 ## Testing
 
-In this case, I'm using Supestest Library:
+In this case, I'm using Jest & Supestest libraries:
 
     npm run test
     npm run test:watch
